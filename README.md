@@ -1,17 +1,13 @@
-# admin_dashboard
+# Team Dashboard and Staff Management UI
 
-A new Flutter project.
+A responsive Flutter user interface designed for a staff management dashboard. This project demonstrates clean UI structure, reusable widget design, and effective layout composition using Dart and Flutter Material Library.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Welcome Header: Displays dashboard overview and staff summary statistics.
+  ![App Screenshot](screenshots/img1.jpg)
+- Search Interface: Integrated search bar layout for team member filtering.
+- Category Filters: Scrollable filter chips for segmenting employees by role.
+- Dynamic Staff List: Efficient ListView implementation displaying employee details and positions.
+- Action Navigation Bar: Bottom action panel for adding new team members.
+- Clean Code Structure: Modularized widget methods ensuring high readability and maintainability.
